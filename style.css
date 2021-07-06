@@ -1,0 +1,190 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.text {
+    text-indent: 20px;
+    text-align: justify;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+  }
+
+
+  /*
+navbar  style start
+*/
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    border: 1px solid green;
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bolder;
+  }
+  
+  
+  .navbar a:hover {
+    background-color: red;
+    cursor: pointer;
+  }
+  
+  /*
+  navbar  style ebd
+  */
+
+
+
+h1{
+    font-size: 50px;
+    
+}
+h2{
+    font-size: 40px;
+}
+
+.orange-color{
+    color:orange
+}
+.food-collect{
+    font-size: 30px;
+}
+
+.flexible-container{
+    display:flex;
+    margin-bottom: 100px;
+}
+
+.half-with{
+    width: 60%;
+    padding-left:5%;
+    padding-top: 5%;
+   
+    
+}
+
+.half-with img {
+    width:40%
+}
+
+.link-button{
+    text-decoration: none;
+   background-image: linear-gradient(orange,tomato);
+    padding:15px 40px;
+    color:white;
+    font-weight:1000 ;
+    border-radius: 30px;
+}
+
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.dream-big{
+    background-image: url(images/shapes/7.png);
+      background-repeat: no-repeat;
+     
+      
+      
+}
+.Exprience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+  
+}
+
+.expriens-item{
+    width:25.33%;
+    margin-left:5%;
+   
+    padding-left: 1.7%;
+    
+    padding-top: 1.7%;
+    border-radius: 10px;
+    box-shadow:10px 10px 40px gray ;
+    
+}
+
+.expriens-item1{
+    width:50%;
+    margin-left: 20%;
+    
+   
+    padding-left: 20px;
+    padding-right: 40px;
+    border-radius: 10px;
+    box-shadow:10px 10px 40px gray ;
+    
+}
+
+#full-stack-exprience{
+    border-left: 7px solid;
+    border-image: linear-gradient(purpul,cyan);
+      border-image-slice: 1;
+
+}
+
+
+
+.card
+{
+ 
+    display: inline-block;
+    margin-left: 45px;
+    
+  
+      
+}
+
+.Flexbox{
+    display:flex;;
+}
+
+#item_food{
+    text-align: center;
+
+}
+
+
+
+
+.texts{
+    text-align:center;
+    
+}
+
+/*
+Footer style
+*/
+.bottom-container {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .bottom-container a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+  }
+  
+  .bottom-container p {
+    color: white;
+    margin-top: 20px;
+  }
+  
+  .bottom-container a:hover {
+    background-color: red;
+  }
+  /*
+  Footer style end
+  */
+     
